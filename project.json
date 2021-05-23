@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.5",
+  "name": "FlappyBird",
+  "id": "68f99461-0185-409d-930a-8a83c99ac881",
+  "isNew": false
+}
